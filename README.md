@@ -1,2 +1,4 @@
 # Samo
-test
+test 1
+#kraj
+
